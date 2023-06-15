@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T01:33:14.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="BZgTKiSndDpU8dI3J5c2" version="20.8.19" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T01:35:49.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="U9zzSkgmRITZ44NCq8jU" version="20.8.19" type="github">
   <diagram name="第 1 页" id="-a2cajlcUVzWi9H27ka_">
     <mxGraphModel dx="2265" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -173,7 +173,7 @@
             <mxPoint x="-320" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5XkQjtwtMUVPwkuHvZPp-115" value="a.moredian.com&lt;br&gt;b.moredian.com&lt;br&gt;c.moredian.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="5XkQjtwtMUVPwkuHvZPp-115" value="a.xxx.com&lt;br&gt;b.xxx.com&lt;br&gt;c.xxx.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-60" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5XkQjtwtMUVPwkuHvZPp-118" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -203,12 +203,6 @@
         <mxCell id="5XkQjtwtMUVPwkuHvZPp-126" value="vip" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="559.5" width="30" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="5XkQjtwtMUVPwkuHvZPp-139" value="a.moredian.com&lt;br&gt;b.moredian.com&lt;br&gt;c.moredian.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="255" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5XkQjtwtMUVPwkuHvZPp-140" value="a.moredian.com&lt;br&gt;b.moredian.com&lt;br&gt;c.moredian.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="438.5" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="5XkQjtwtMUVPwkuHvZPp-141" value="DNS" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-90" y="667.5" width="90" height="50" as="geometry" />
         </mxCell>
@@ -223,9 +217,6 @@
             <mxPoint x="-315" y="580" as="sourcePoint" />
             <mxPoint x="55" y="580" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5XkQjtwtMUVPwkuHvZPp-145" value="a.moredian.com&lt;br&gt;b.moredian.com&lt;br&gt;c.moredian.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="608.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5XkQjtwtMUVPwkuHvZPp-146" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=20;" edge="1" parent="1" target="5XkQjtwtMUVPwkuHvZPp-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -253,6 +244,27 @@
         </mxCell>
         <mxCell id="5XkQjtwtMUVPwkuHvZPp-151" value="vpn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="632.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XkQjtwtMUVPwkuHvZPp-152" value="a.xxx.com&lt;br&gt;b.xxx.com&lt;br&gt;c.xxx.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="438.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XkQjtwtMUVPwkuHvZPp-153" value="a.xxx.com&lt;br&gt;b.xxx.com&lt;br&gt;c.xxx.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XkQjtwtMUVPwkuHvZPp-154" value="a.xxx.com&lt;br&gt;b.xxx.com&lt;br&gt;c.xxx.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XkQjtwtMUVPwkuHvZPp-155" value="学校1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-306" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XkQjtwtMUVPwkuHvZPp-156" value="学校4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-306" y="608.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XkQjtwtMUVPwkuHvZPp-157" value="学校3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-306.5" y="433.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XkQjtwtMUVPwkuHvZPp-158" value="学校2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-306" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
